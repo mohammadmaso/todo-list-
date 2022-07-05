@@ -4,8 +4,8 @@
 
 
 Todo: 
-[] Create pure node.js api endpoint
-- [] 
-[] create ejs views
-[] 
+[-] Create pure node.js api endpoint
+- [-] 
+[-] create ejs views
+[-] 
 
